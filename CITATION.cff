@@ -8,6 +8,7 @@ authors:
   - family-names: Larson
     given-names: Mats G.
 license: BSD-3-Clause
+repository-code: "https://github.com/mglarson1/barrier-regularized-signorini"
 preferred-citation:
   type: article
   authors:
