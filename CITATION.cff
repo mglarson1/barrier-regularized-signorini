@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Barrier-Regularized Signorini Reproducibility Code"
+type: software
+authors:
+  - family-names: Hansbo
+    given-names: Peter
+  - family-names: Larson
+    given-names: Mats G.
+license: BSD-3-Clause
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Hansbo
+      given-names: Peter
+    - family-names: Larson
+      given-names: Mats G.
+  title: "A Barrier-Regularized Symmetric Nitsche Method for the Signorini Problem"
+  year: 2026

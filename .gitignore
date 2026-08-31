@@ -1,0 +1,13 @@
+.DS_Store
+*.asv
+*.log
+*.m~
+*.swp
+*.tmp
+*.fig
+java.log
+matlab_crash_dump.*
+
+# Generated paper figures
+figures/*
+!figures/.gitkeep
